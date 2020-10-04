@@ -7,6 +7,7 @@ Q: IntelliJ doesn't let me to execute Application
 
 A: from IntelliJ menu: File -> Project structure -> Project (Ctrl+Alt+Shift+S)
 - set SDK -> 1.8
+- set specific language level -> 8
 - set output path -> full_system_path_to_project\out   
 
 # tasks description
