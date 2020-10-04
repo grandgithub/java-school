@@ -1,8 +1,17 @@
 # java-school
 
-to use specific task change branch
+to use specific task change the branch
 
-Task1
+# issues
+Q: IntelliJ doesn't let me to execute Application
+
+A: from IntelliJ menu: File -> Project structure -> Project (Ctrl+Alt+Shift+S)
+- set SDK -> 1.8
+- set specific language level -> 8
+- set output path -> full_system_path_to_project\out   
+
+# tasks description
+Task1 (remote branch origin/task1)
 1) Create class User that will contain the following info:
 firstname
 lastname
