@@ -1,4 +1,4 @@
-package com.endava;
+package com.endava.task00;
 
 public enum UserType {
     ACTIVE,
