@@ -1,6 +1,6 @@
-package com.endava.timbuchalka.s6;
+package com.endava.timbuchalka.s7;
 
-public class S6_39_Car {
+public class S7_39_Car {
 
     public static void main(String[] args) {
         Car car = new Car(8, "Base car");
